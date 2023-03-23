@@ -1,15 +1,8 @@
-.nav-pills {
-    --bs-nav-pills-border-radius: 0.375rem;
-    --bs-nav-pills-link-active-color: #fff;
-    --bs-nav-pills-link-active-bg: #141f74;
+.nav {
+    --bs-nav-link-color:  #2c3fce;
+    --bs-nav-link-hover-color: blue;
 }
 
-
-
-.card {
-    color: white;
-
-}
 
 .card-img-overlay{
     padding: 30px 0;
@@ -21,7 +14,6 @@
 } 
 
 #contacts {
-   /* background-color: rgb(9, 43, 153);*/
     color: black;
 }  
     
